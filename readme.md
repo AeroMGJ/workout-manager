@@ -6,11 +6,14 @@ This is an app where one can organize a workout with provide exersizes
 [Trello Board](https://trello.com/invite/b/2SYtncm7/ATTI660453dc95841faff6553df83dd94bb26496D8DC/workout-manager)
 
 ## Wireframe
-![picture](./assets/......)
-![picture](./assets/......)
-![picture](./assets/......)
-![picture](./assets/......)
-![picture](./assets/......)
+### Login
+![Login](./assets/login.png)
+### Home Page
+![Home Page](./assets/home-page.png)
+### Workout
+![Workout](./assets/workout.png)
+### Exercise
+![Exercise](./assets/exercise.png)
 
 ## ERD
 ![ERD](./assets/erd.png)
